@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\controllers\\aiintegrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:controllers\\aiintegrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\aiclient\\aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:aiclient\\aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\dtos\\querydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:dtos\\querydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\dtos\\airesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:dtos\\airesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\aiclient\\iaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:aiclient\\iaiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|c:\\users\\shopo\\desktop\\integrating-ai-into-apps-class\\backend\\footballagentbackend\\footballagentbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8C2190F6-9630-447A-944B-5C6FD38DEA6A}|FootballAgentBackend.csproj|solutionrelative:footballagentbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +42,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\DTOs\\AIResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AIResponseDTO.cs",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\DTOs\\AIResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\AIResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T12:06:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAIClient.cs",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\AIClient\\IAIClient.cs",
+              "RelativeDocumentMoniker": "AIClient\\IAIClient.cs",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\AIClient\\IAIClient.cs",
+              "RelativeToolTip": "AIClient\\IAIClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:44:10.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIClient.cs",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\AIClient\\AIClient.cs",
+              "RelativeDocumentMoniker": "AIClient\\AIClient.cs",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\AIClient\\AIClient.cs",
+              "RelativeToolTip": "AIClient\\AIClient.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:38:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\DTOs\\QueryDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\QueryDTO.cs",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\DTOs\\QueryDTO.cs",
+              "RelativeToolTip": "DTOs\\QueryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T10:46:45.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T20:11:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FootballAgentBackend.http",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\FootballAgentBackend.http",
+              "RelativeDocumentMoniker": "FootballAgentBackend.http",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\FootballAgentBackend.http",
+              "RelativeToolTip": "FootballAgentBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-28T20:11:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:11:39.077Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +142,7 @@
               "RelativeDocumentMoniker": "Controllers\\AIIntegrationController.cs",
               "ToolTip": "C:\\Users\\shopo\\Desktop\\Integrating-ai-into-apps-class\\Backend\\FootballAgentBackend\\Controllers\\AIIntegrationController.cs",
               "RelativeToolTip": "Controllers\\AIIntegrationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T17:12:33.975Z",
               "EditorCaption": ""
